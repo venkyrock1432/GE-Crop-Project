@@ -1,0 +1,3 @@
+In welcome to get name 
+ 
+<c:out value="${student.name} "></c:out>
